@@ -38,4 +38,4 @@ DANIQUE is open-source and licensed under **MIT**. Use it freely, modify it, and
 
 🚀 **Ready to optimize task execution? Get started with DANIQUE today!**
 
-🚀 **Suggestions 💡 , bugs 🐞, optimisations 🔌 and reports are welcome.**
+**Suggestions 💡 , bugs 🐞, optimisations 🔌 and reports are welcome.**
